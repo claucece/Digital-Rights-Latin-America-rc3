@@ -20,6 +20,8 @@ organized by Sarah Chasins, Elena Glassman, Shriram Krishnamurthi and Hila Peleg
 and by the [Fourteenth Algorithmic Number Theory Symposium, ANTS-XIV](https://www.math.auckland.ac.nz/~sgal018/ANTS/index.html)
 organized by Steven Galbraith.
 
+It is super nicely organized by Karolin Varner, Gustavo Gus and Sofía Celi.
+
 # Information
 
 The event will be entirely virtual at the rC3 systems.
