@@ -1,6 +1,6 @@
 # Welcome to the Digital Rights Latin America Panel for rC3
 
-Find me in [github](https://github.com/claucece/Digital-Rights-Latin-America-rc3)
+Find me in [github](https://github.com/claucece/Digital-Rights-Latin-America-rc3).
 
 This is a panel in which we will discuss the state of digital rights in
 Latin America. It will be held on the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress),
